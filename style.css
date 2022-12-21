@@ -1,9 +1,14 @@
 body {
     font-family: monospace;
-    background-color: yellowgreen;
-    
+    background-color: yellowgreen;    
+}
+
+.center {
+    text-align: center;
 }
 
 .small-image {
     max-width: 200px; height: auto; 
 }
+
+
